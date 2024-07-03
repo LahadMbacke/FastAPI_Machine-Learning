@@ -1,5 +1,6 @@
 fastapi[all]
-diffusers==0.4.0
+diffusers
 transformers
 scipy
 ftfy
+sentencepiece
